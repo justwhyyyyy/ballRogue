@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23667de1cf6a4a94380257b4a6fd77c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buffSource: {instanceID: 0}
+  - buffTarget: {instanceID: 0}
+  - effectPrefab: {fileID: 1544532229968109658, guid: 13d30ff2a2266734da2d8efe837b8219, type: 3}
+  - burnedEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

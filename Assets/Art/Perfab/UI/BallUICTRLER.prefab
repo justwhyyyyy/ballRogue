@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5551177941531317757
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5551177941531317758}
+  - component: {fileID: 5551177941531317759}
+  m_Layer: 5
+  m_Name: BallUICTRLER
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5551177941531317758
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5551177941531317757}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -300, y: 96.600006}
+  m_SizeDelta: {x: 200, y: 193.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &5551177941531317759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5551177941531317757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b147204ccd58474d9cf62115c20c370, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pos: {x: 0, y: 0, z: 0}
+  UIpos: {x: 0, y: 0, z: 0}
+  hpBarPos: {x: 0, y: 0, z: 0}
+  ball: {fileID: 0}
+  hpBar: {fileID: 0}
+  hpBarList:
+  - {fileID: 898722160739128486, guid: d5812b8732a7dca4cbd26eb804744f99, type: 3}
+  - {fileID: 1937659934674009500, guid: c86f281ecf920ce4bbc3672546d9407f, type: 3}
+  - {fileID: 6127031061081180575, guid: bd3055d9bb05c87418cd34651a47b0f7, type: 3}
+  - {fileID: 494606979437056257, guid: 2870f2ff77d34d041b6cfaae936cce5d, type: 3}

@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\behavior\\playerballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\behavior\\playerballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|h:\\unity\\unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\weaponscript\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponscript\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\ballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\manager\\ballmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\ballmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\ui\\balluictrler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\balluictrler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\manager\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\class\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\class\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\weaponscript\\lancescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponscript\\lancescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\weaponscript\\knifescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponscript\\knifescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\weaponscript\\doubleaxescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponscript\\doubleaxescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\class\\damageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\class\\damageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\event\\damageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\event\\damageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\buff\\buffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buff\\buffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\projectile\\hurricanescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\hurricanescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\weaponscript\\staffscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponscript\\staffscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\buff\\burnedbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buff\\burnedbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\projectile\\windscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\windscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\projectile\\icescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\icescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\projectile\\projecteffect\\homingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\projecteffect\\homingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\projectile\\projecttilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\projecttilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\weaponscript\\bowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weaponscript\\bowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\projectile\\arrowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\arrowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\buff\\coldbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buff\\coldbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\buff\\basebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buff\\basebuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\projectile\\fireballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile\\fireballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\text\\floatingtextscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\text\\floatingtextscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\class\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\class\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\text\\healthdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\text\\healthdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\ui\\healthbarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\healthbarscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\class\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\class\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\assets\\script\\class\\uitype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\class\\uitype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 163,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BallManager.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\BallManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\BallManager.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\BallManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\BallManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:08:43.429Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StaffScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\StaffScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WeaponScript\\StaffScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\StaffScript.cs",
+              "RelativeToolTip": "Assets\\Script\\WeaponScript\\StaffScript.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswHIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T00:23:07.908Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BuffManager.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\BuffManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Buff\\BuffManager.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\BuffManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Buff\\BuffManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:10:22.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\WeaponScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WeaponScript\\WeaponScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\WeaponScript.cs",
+              "RelativeToolTip": "Assets\\Script\\WeaponScript\\WeaponScript.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwFMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:00:36.105Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BallScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\BallScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BallScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\BallScript.cs",
+              "RelativeToolTip": "Assets\\Script\\BallScript.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:04:21.219Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjecttileScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\ProjecttileScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\ProjecttileScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\ProjecttileScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\ProjecttileScript.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T21:08:56.532Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WindScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\WindScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\WindScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\WindScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\WindScript.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:38:49.078Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HurricaneScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\HurricaneScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\HurricaneScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\HurricaneScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\HurricaneScript.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:01:10.35Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IceScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\IceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\IceScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\IceScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\IceScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:40:41.24Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomingProjectile.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\ProjectEffect\\HomingProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\ProjectEffect\\HomingProjectile.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\ProjectEffect\\HomingProjectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\ProjectEffect\\HomingProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:37:30.779Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\EnemyManager.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\EnemyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:42:08.558Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stat.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\Stat.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Class\\Stat.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\Stat.cs",
+              "RelativeToolTip": "Assets\\Script\\Class\\Stat.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:56:23.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseBuff.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\BaseBuff.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Buff\\BaseBuff.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\BaseBuff.cs",
+              "RelativeToolTip": "Assets\\Script\\Buff\\BaseBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:29:28.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ColdBuff.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\ColdBuff.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Buff\\ColdBuff.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\ColdBuff.cs",
+              "RelativeToolTip": "Assets\\Script\\Buff\\ColdBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:04:02.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BurnedBuff.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\BurnedBuff.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Buff\\BurnedBuff.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Buff\\BurnedBuff.cs",
+              "RelativeToolTip": "Assets\\Script\\Buff\\BurnedBuff.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T05:55:29.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FireBallScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\FireBallScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\FireBallScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\FireBallScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\FireBallScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:40:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Equipment.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Equipment.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Equipment.cs",
+              "RelativeToolTip": "Assets\\Script\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:09:24.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KnifeScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\KnifeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WeaponScript\\KnifeScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\KnifeScript.cs",
+              "RelativeToolTip": "Assets\\Script\\WeaponScript\\KnifeScript.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwEcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:56:36.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ArrowScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\ArrowScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile\\ArrowScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Projectile\\ArrowScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile\\ArrowScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:35:55.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoubleAxeScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\DoubleAxeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WeaponScript\\DoubleAxeScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\DoubleAxeScript.cs",
+              "RelativeToolTip": "Assets\\Script\\WeaponScript\\DoubleAxeScript.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:18:10.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BowScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\BowScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WeaponScript\\BowScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\BowScript.cs",
+              "RelativeToolTip": "Assets\\Script\\WeaponScript\\BowScript.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwHUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:45:21.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HealthDisplay.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Text\\HealthDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Text\\HealthDisplay.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Text\\HealthDisplay.cs",
+              "RelativeToolTip": "Assets\\Script\\Text\\HealthDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:28:14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanceScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\LanceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WeaponScript\\LanceScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\WeaponScript\\LanceScript.cs",
+              "RelativeToolTip": "Assets\\Script\\WeaponScript\\LanceScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:56:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UIType.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\UIType.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Class\\UIType.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\UIType.cs",
+              "RelativeToolTip": "Assets\\Script\\Class\\UIType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:02:19.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\UIManager.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:54:41.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HealthBarScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\UI\\HealthBarScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\HealthBarScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\UI\\HealthBarScript.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\HealthBarScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:34:13.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BallUICtrler.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\UI\\BallUICtrler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\BallUICtrler.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\UI\\BallUICtrler.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\BallUICtrler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:54:08.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Color.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\Color.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Class\\Color.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\Color.cs",
+              "RelativeToolTip": "Assets\\Script\\Class\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T05:26:08.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Team.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\Team.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Class\\Team.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\Team.cs",
+              "RelativeToolTip": "Assets\\Script\\Class\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:25:53.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DamageInfo.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\DamageInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Class\\DamageInfo.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Class\\DamageInfo.cs",
+              "RelativeToolTip": "Assets\\Script\\Class\\DamageInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:34:17.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DamageEvent.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Event\\DamageEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Event\\DamageEvent.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Event\\DamageEvent.cs",
+              "RelativeToolTip": "Assets\\Script\\Event\\DamageEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T21:06:28.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerBallScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Behavior\\PlayerBallScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Behavior\\PlayerBallScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Behavior\\PlayerBallScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Behavior\\PlayerBallScript.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:03:33.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FloatingTextScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Text\\FloatingTextScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Text\\FloatingTextScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Text\\FloatingTextScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Text\\FloatingTextScript.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T03:01:14.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\TimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\TimeManager.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\\u7403\u7403\u8089\u9E3D\\Assets\\Script\\Manager\\TimeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\TimeManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:32:51.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &988653697455273881
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 988653697455273880}
+  - component: {fileID: 988653697455273882}
+  - component: {fileID: 988653697455273883}
+  - component: {fileID: 988653697455273885}
+  m_Layer: 5
+  m_Name: HealthBar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &988653697455273880
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 988653697455273881}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 10}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &988653697455273882
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 988653697455273881}
+  m_CullTransparentMesh: 1
+--- !u!114 &988653697455273883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 988653697455273881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -2459961163305036784, guid: af1f6a12006bf814b9d7a01564356005, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &988653697455273885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 988653697455273881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19b9ac52e8e84e04db4cbacb3c069230, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthImage: {fileID: 0}
+  healthSprites:
+  - {fileID: -2387262291714432455, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -242203264365170457, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 7632202530780054387, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 327495407877526355, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 2700463505168448447, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -1471068856232083993, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -5596283891623790721, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -2581111809765221966, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -5710928665706541019, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 7898620916353919549, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 6095430065592929562, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -2718517547362820103, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 5185801832859231859, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -6218744646135668037, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -4344600159397161369, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -7487156215779400156, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 4024289804092916010, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -1746679920095482711, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: 1647303248616649345, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  - {fileID: -1212579227134203616, guid: 8548147ad497cca4ebe70fc38b65a1bc, type: 3}
+  selfBallScript: {fileID: 0}
+  currentHP: 0
+  MaxHp: 0
