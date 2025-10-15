@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{70D1B3DE-DE19-7FF2-9C2E-AE2E6BAD4560}</ProjectGuid>
+    <ProjectGuid>{D1DA3275-EFA8-5528-2002-461F168B956D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,12 +56,13 @@
     <Analyzer Include="H:\VS\VS 2022\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Class\IntStat.cs" />
     <Compile Include="Assets\Script\Projectile\IceScript.cs" />
-    <Compile Include="Assets\Script\WeaponScript\LanceScript.cs" />
+    <Compile Include="Assets\Script\Weapon\LanceScript.cs" />
     <Compile Include="Assets\Script\Behavior\PlayerBallScript.cs" />
     <Compile Include="Assets\Script\Event\DamageEvent.cs" />
     <Compile Include="Assets\Script\Equipment.cs" />
-    <Compile Include="Assets\Script\Manager\BallManager.cs" />
+    <Compile Include="Assets\Script\Manager\PlayerManager.cs" />
     <Compile Include="Assets\Script\Manager\TimeManager.cs" />
     <Compile Include="Assets\Script\Class\Team.cs" />
     <Compile Include="Assets\Script\Projectile\WindScript.cs" />
@@ -69,15 +70,18 @@
     <Compile Include="Assets\Script\Behavior\EnemyScript.cs" />
     <Compile Include="Assets\Script\Text\FloatingTextScript.cs" />
     <Compile Include="Assets\Script\Behavior\EnemyBallScript.cs" />
-    <Compile Include="Assets\Script\WeaponScript\KnifeScript.cs" />
+    <Compile Include="Assets\Script\Weapon\KnifeScript.cs" />
     <Compile Include="Assets\Script\BallScript.cs" />
     <Compile Include="Assets\Script\Class\DamageInfo.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponData\WeaponData.cs" />
     <Compile Include="Assets\Script\UI\HealthBarScript.cs" />
     <Compile Include="Assets\Script\Projectile\ProjecttileScript.cs" />
+    <Compile Include="Assets\Script\Class\FloatStat.cs" />
     <Compile Include="Assets\Script\Class\UIType.cs" />
     <Compile Include="Assets\Script\Projectile\ArrowScript.cs" />
-    <Compile Include="Assets\Script\WeaponScript\StaffScript.cs" />
-    <Compile Include="Assets\Script\WeaponScript\BowScript.cs" />
+    <Compile Include="Assets\Script\Weapon\StaffScript.cs" />
+    <Compile Include="Assets\Script\Weapon\WeapoComponent\WeaponComponent.cs" />
+    <Compile Include="Assets\Script\Weapon\BowScript.cs" />
     <Compile Include="Assets\Script\Class\Stat.cs" />
     <Compile Include="Assets\Script\Class\Color.cs" />
     <Compile Include="Assets\Script\Buff\BaseBuff.cs" />
@@ -87,12 +91,17 @@
     <Compile Include="Assets\Script\Buff\ColdBuff.cs" />
     <Compile Include="Assets\Script\Buff\BurnedBuff.cs" />
     <Compile Include="Assets\Script\Buff\BuffManager.cs" />
-    <Compile Include="Assets\Script\WeaponScript\DoubleAxeScript.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponTrait\SharpTrait.cs" />
+    <Compile Include="Assets\Script\Weapon\DoubleAxeScript.cs" />
     <Compile Include="Assets\Script\Manager\EnemyManager.cs" />
-    <Compile Include="Assets\Script\WeaponScript\WeaponScript.cs" />
+    <Compile Include="Assets\Script\Manager\WeaponManager.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponScript.cs" />
     <Compile Include="Assets\Script\Projectile\ProjectEffect\HomingProjectile.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponTrait\Trait.cs" />
     <Compile Include="Assets\Script\WolfScript.cs" />
     <Compile Include="Assets\Script\Projectile\HurricaneScript.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponTrait\SlashTrait.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponTrait\NewBehaviourScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

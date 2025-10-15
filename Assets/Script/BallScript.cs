@@ -8,11 +8,13 @@ public class BallScript : MonoBehaviour
     public bool isInvincible = false;//是否无敌
     public bool ifDodgeByInvincible = false;//是否在无敌时间内躲过了伤害
     //基础属性
-    public Stat maxHPStat;
+    public IntStat maxHPStat;
     public int currentHP;
 
-    public Stat maxSpeedStat;
-    public Stat moveForceStat;
+    public FloatStat maxSpeedStat;
+    public FloatStat moveForceStat;
+
+    public FloatStat totalMess;
     //武器系统
     public int maxWeaponCount = 4;
     public List<WeaponScript> weapons = new List<WeaponScript>();
@@ -25,13 +27,13 @@ public class BallScript : MonoBehaviour
 
     public DamageEvent beforeTakeDamage = new DamageEvent();
     public DamageEvent afterTakeDamage = new DamageEvent();
-        
-    public BallScript(int baseHP = 100, float baseSpeed = 3f, float baseMoveForce = 5f)
+    
+    public BallScript(int baseHP = 100, float baseSpeed = 3f, float baseMoveForce = 15f,float mess = 20f)//参数
     {
-        maxHPStat = new Stat(baseHP);
-
-        maxSpeedStat = new Stat(Mathf.RoundToInt(baseSpeed * 100)); // 用整数表示速度，后面除以100
-        moveForceStat = new Stat(Mathf.RoundToInt(baseMoveForce * 100));
+        maxHPStat = new IntStat(baseHP);
+        maxSpeedStat = new FloatStat(baseSpeed); // 用整数表示速度，后面除以100
+        moveForceStat = new FloatStat(baseMoveForce);
+        totalMess = new FloatStat(mess);
     }
     public virtual void WeaponCauseDamage(int damage, GameObject damageTaker,GameObject theAttackWeapon)
     {
@@ -117,5 +119,5 @@ public class BallScript : MonoBehaviour
             sr.color = c;
             yield return new WaitForSeconds(0.1f);
         }
-    }
+    } 
 }
