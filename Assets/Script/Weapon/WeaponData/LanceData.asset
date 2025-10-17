@@ -12,9 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf90c4aec3f62b6449fb0e0ed0f830be, type: 3}
   m_Name: LanceData
   m_EditorClassIdentifier: 
-  weaponName: 
-  weaponPerfab: {fileID: 0}
-  baseDamage: 0
-  baseRotateSpeed: 0
-  FloatMass: 0
-  radius: 0
+  weaponName: Lance
+  weaponIndex: 2
+  weaponPerfab: {fileID: 6225277625689467736, guid: 2219e7022a7c8f6438aa118f6633ca3f, type: 3}
+  baseDamage: 12
+  baseRotateSpeed: 150
+  FloatMass: 4
+  radius: 1.3
+  dirX: 0.707
+  dirY: 0.707
+  traits: []

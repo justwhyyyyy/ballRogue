@@ -80,6 +80,7 @@
     <Compile Include="Assets\Script\Class\UIType.cs" />
     <Compile Include="Assets\Script\Projectile\ArrowScript.cs" />
     <Compile Include="Assets\Script\Weapon\StaffScript.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponTrait\TraitScript\SlashTrait.cs" />
     <Compile Include="Assets\Script\Weapon\WeapoComponent\WeaponComponent.cs" />
     <Compile Include="Assets\Script\Weapon\BowScript.cs" />
     <Compile Include="Assets\Script\Class\Stat.cs" />
@@ -91,7 +92,7 @@
     <Compile Include="Assets\Script\Buff\ColdBuff.cs" />
     <Compile Include="Assets\Script\Buff\BurnedBuff.cs" />
     <Compile Include="Assets\Script\Buff\BuffManager.cs" />
-    <Compile Include="Assets\Script\Weapon\WeaponTrait\SharpTrait.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponTrait\TraitScript\SharpTrait.cs" />
     <Compile Include="Assets\Script\Weapon\DoubleAxeScript.cs" />
     <Compile Include="Assets\Script\Manager\EnemyManager.cs" />
     <Compile Include="Assets\Script\Manager\WeaponManager.cs" />
@@ -100,8 +101,7 @@
     <Compile Include="Assets\Script\Weapon\WeaponTrait\Trait.cs" />
     <Compile Include="Assets\Script\WolfScript.cs" />
     <Compile Include="Assets\Script\Projectile\HurricaneScript.cs" />
-    <Compile Include="Assets\Script\Weapon\WeaponTrait\SlashTrait.cs" />
-    <Compile Include="Assets\Script\Weapon\WeaponTrait\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Script\Weapon\WeaponTrait\TraitInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

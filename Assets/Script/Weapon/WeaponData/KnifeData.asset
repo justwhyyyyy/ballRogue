@@ -13,8 +13,12 @@ MonoBehaviour:
   m_Name: KnifeData
   m_EditorClassIdentifier: 
   weaponName: Knife
+  weaponIndex: 1
   weaponPerfab: {fileID: 5303464075343868231, guid: 974fee3a78c5bf0459b5fa59c479cfb5, type: 3}
-  intBaseDamage: 15
-  intBaseRotateSpeed: 400
+  baseDamage: 15
+  baseRotateSpeed: 400
   FloatMass: 1
   radius: 0.55
+  dirX: 0.707
+  dirY: -0.707
+  traits: []

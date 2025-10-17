@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 3818375581291951784}
   - component: {fileID: 3818375581291951785}
   - component: {fileID: -1408606388648202623}
-  - component: {fileID: 6716636051551220662}
   m_Layer: 0
   m_Name: DoubleAxe
   m_TagString: weapon
@@ -123,33 +122,3 @@ PolygonCollider2D:
       - {x: 0.46875, y: -0.453125}
       - {x: 0.4545399, y: -0.3618356}
       - {x: 0.041707933, y: 0.07683343}
---- !u!114 &6716636051551220662
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3818375581291951702}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21b8a638e9ac55749891b7877775eb64, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  weaponName: 
-  isPlayer: 0
-  weaponTeam: 0
-  damage: 0
-  radius: 0
-  rotateSpeed: 0
-  rotateDir: 0
-  originRotateSpeed: 0
-  originDamage: 0
-  ballPos: {fileID: 0}
-  selfball: {fileID: 0}
-  slashCD: 0
-  slashSpeed: 0
-  slashDuration: 0
-  slashDamage: 0
-  isSlashing: 0
-  canSlash: 0
-  slashTimer: 0

@@ -5,6 +5,7 @@ using UnityEngine;
 public class WeaponData : ScriptableObject
 {
     public string weaponName;
+    public int weaponIndex;
 
     public GameObject weaponPerfab;
 
@@ -19,8 +20,13 @@ public class WeaponData : ScriptableObject
 
     public float radius;
 
+    public float dirX;
+    public float dirY;
+
     public List<Trait> traits;
-    public WeaponData()
+
+    public GameObject attachedWeapon;
+    private void OnEnable()
     {
         damage = new IntStat(baseDamage);
         rotateSpeed = new IntStat(baseRotateSpeed);

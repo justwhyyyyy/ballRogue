@@ -12,19 +12,22 @@ public class WeaponComponent : MonoBehaviour
     
     public WeaponData weaponData;//ÎäÆ÷Êý¾Ý
 
-    public List<Trait> traits;
+    public List<Trait> traits = new List<Trait>();
 
     public Transform ballTrans;
     public GameObject selfball;
     public void attachToBall(BallScript ballScript)
     {
+        thisWeapon = this.gameObject;
         ballTrans = ballScript.gameObject.transform;
         selfball = ballScript.gameObject;
+        thisWeapon.transform.SetParent(ballTrans);
+        thisWeapon.transform.localPosition = new Vector3(weaponData.dirX,weaponData.dirY, 0); // Ä¬ÈÏ³¯ÓÒ
+        thisWeapon.transform.localRotation = Quaternion.identity;
     }
     public void addTrait(Trait trait)
     {
         traits.Add(trait);
-        trait.Effect(weaponData);
     }
     public void FixedUpdate()
     {

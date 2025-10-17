@@ -2045,6 +2045,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weapons:
   - {fileID: 11400000, guid: a8f595ac8f020f1428ca03f5f9a07dc3, type: 2}
+  - {fileID: 11400000, guid: eb36362744fbd0841b7cb5d6b714ddd3, type: 2}
+  - {fileID: 11400000, guid: d422629607eab52478d59486f233af1a, type: 2}
+  traits:
+  - {fileID: 11400000, guid: a24d4a530773e8b4ab1d44f4eb4290e2, type: 2}
+  - {fileID: 11400000, guid: 684f84d933485e746ab7215d3e447019, type: 2}
 --- !u!4 &1681310211
 Transform:
   m_ObjectHideFlags: 0
@@ -2260,9 +2265,13 @@ MonoBehaviour:
   - {fileID: 3230908481397892233, guid: 45cdfbe4880bb8a48bf88863d0d2475b, type: 3}
   tilemap: {fileID: 1354275997}
   UImanager: {fileID: 1745671679}
-  weaponManager: {fileID: 0}
+  weaponManager: {fileID: 1681310210}
+  player: {fileID: 0}
   playerBallScript: {fileID: 0}
-  playerSWeaponScript: {fileID: 0}
+  traitInfos:
+  - {fileID: 11400000, guid: a24d4a530773e8b4ab1d44f4eb4290e2, type: 2}
+  - {fileID: 11400000, guid: 684f84d933485e746ab7215d3e447019, type: 2}
+  playerWeaponScript: {fileID: 0}
 --- !u!4 &1988569624
 Transform:
   m_ObjectHideFlags: 0

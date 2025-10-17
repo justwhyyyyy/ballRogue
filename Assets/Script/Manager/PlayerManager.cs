@@ -18,11 +18,14 @@ public class PlayerManager : MonoBehaviour
     //UIManager引用
     public UIManager UImanager;
     //weaponManager引用
-    public WeaponManager weaponManager; 
+    public WeaponManager weaponManager;
     //角色
+    public GameObject player;
     public PlayerBallScript playerBallScript;
+    //词条list
+    public List<TraitInfo> traitInfos;
     //角色现在拥有的武器
-    public WeaponComponent playerSWeaponScript;
+    public WeaponComponent playerWeaponScript;
     private List<BallScript> allBalls = new List<BallScript>();
     public void Awake()
     {
@@ -30,18 +33,20 @@ public class PlayerManager : MonoBehaviour
     }
     public void Start()
     {
-        //TODO:playerSWeaponScript = weaponManager.InitWeapon()
-        SpawnBall(new Vector3Int(2, 2, 0), blueballPrefab);
-        
+        playerBallScript = SpawnBall(new Vector3Int(2, 2, 0), blueballPrefab);
+        List<TraitInfo> newTrait = new List<TraitInfo>() { traitInfos[0] };
+        playerWeaponScript = weaponManager.InitWeapon(3,newTrait);
+        playerWeaponScript.attachToBall(playerBallScript);
+        Debug.Log(playerWeaponScript.weaponData.damage.GetValue());
     }
-    public BallScript SpawnBall(Vector3Int cellPos,GameObject ballPrefab)
+    public PlayerBallScript SpawnBall(Vector3Int cellPos,GameObject ballPrefab)
     {
         //转换坐标
         Vector3 worldPos = tilemap.CellToWorld(cellPos);
         worldPos += tilemap.cellSize / 2;
         //1 生成球
         GameObject newBall = Instantiate(ballPrefab, worldPos, Quaternion.identity);
-        BallScript spawnBallScript = newBall.GetComponent<BallScript>();
+        PlayerBallScript spawnBallScript = newBall.GetComponent<PlayerBallScript>();
         //2 生成UI
         UImanager.InitNewUI(newBall);
         return spawnBallScript;

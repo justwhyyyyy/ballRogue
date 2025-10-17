@@ -3,44 +3,56 @@
   "WorkspaceRootPath": "H:\\Unity\\Unity project\\ballRogue\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|h:\\unity\\unity project\\ballrogue\\assets\\script\\weapon\\weapontrait\\traitscript\\slashtrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapontrait\\traitscript\\slashtrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\manager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\class\\intstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\class\\intstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\manager\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|h:\\unity\\unity project\\ballrogue\\assets\\script\\manager\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapontrait\\sharptrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapontrait\\sharptrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|h:\\unity\\unity project\\ballrogue\\assets\\script\\weapon\\weapontrait\\slashtrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapontrait\\slashtrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\behavior\\playerballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\behavior\\playerballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapocomponent\\weaponcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapocomponent\\weaponcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\doubleaxescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\doubleaxescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapontrait\\trait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapontrait\\trait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapontrait\\traitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapontrait\\traitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapocomponent\\weaponcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapocomponent\\weaponcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapondata\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapondata\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|h:\\unity\\unity project\\ballrogue\\assets\\script\\weapon\\weapontrait\\traitscript\\sharptrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapontrait\\traitscript\\sharptrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\class\\intstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\class\\intstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\doubleaxescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\doubleaxescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\lancescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\lancescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\behavior\\playerballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\behavior\\playerballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\knifescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,12 +87,20 @@
       "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\bowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DA3275-EFA8-5528-2002-461F168B956D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapontrait\\sharptrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\weapon\\weapontrait\\sharptrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapontrait\\slashtrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\weapon\\weapontrait\\slashtrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Unity\\Unity project\\ballRogue\\assets\\script\\weapon\\weapontrait\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\weapon\\weapontrait\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -100,7 +120,7 @@
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\WeaponManager.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Manager\\WeaponManager.cs",
               "RelativeToolTip": "Assets\\Script\\Manager\\WeaponManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:19:39.096Z",
               "IsPinned": true,
@@ -108,80 +128,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "WeaponComponent.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeapoComponent\\WeaponComponent.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeapoComponent\\WeaponComponent.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeapoComponent\\WeaponComponent.cs",
               "RelativeToolTip": "Assets\\Script\\Weapon\\WeapoComponent\\WeaponComponent.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwBwAAAAKAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwB0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:40:42.062Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "WeaponData.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponData\\WeaponData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponData\\WeaponData.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponData\\WeaponData.cs",
               "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponData\\WeaponData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:04:52.041Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Trait.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\Trait.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponTrait\\Trait.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\Trait.cs",
               "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponTrait\\Trait.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswAgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:04:32.807Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "SharpTrait.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\SharpTrait.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponTrait\\SharpTrait.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\SharpTrait.cs",
               "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponTrait\\SharpTrait.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:39:24.854Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IntStat.cs",
-              "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Class\\IntStat.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Class\\IntStat.cs",
-              "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Class\\IntStat.cs",
-              "RelativeToolTip": "Assets\\Script\\Class\\IntStat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T11:09:43.415Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Manager\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\PlayerManager.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Manager\\PlayerManager.cs",
               "RelativeToolTip": "Assets\\Script\\Manager\\PlayerManager.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowB8AAAAFAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T12:57:28.192Z",
               "IsPinned": true,
@@ -189,16 +197,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
               "Title": "SlashTrait.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\SlashTrait.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponTrait\\SlashTrait.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\SlashTrait.cs",
               "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponTrait\\SlashTrait.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T13:59:11.793Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TraitInfo.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\TraitInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponTrait\\TraitInfo.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\TraitInfo.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponTrait\\TraitInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:13:46.048Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlashTrait.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SlashTrait.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SlashTrait.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SlashTrait.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SlashTrait.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:52:38.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SharpTrait.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SharpTrait.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SharpTrait.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SharpTrait.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponTrait\\TraitScript\\SharpTrait.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:52:37.227Z",
               "EditorCaption": ""
             },
             {
@@ -207,19 +254,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "IntStat.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Class\\IntStat.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Class\\IntStat.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Class\\IntStat.cs",
+              "RelativeToolTip": "Assets\\Script\\Class\\IntStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:09:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponTrait\\NewBehaviourScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponTrait\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponTrait\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:31:44.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LanceScript.cs",
+              "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\LanceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\LanceScript.cs",
+              "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\LanceScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\LanceScript.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:10:47.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DoubleAxeScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\DoubleAxeScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\DoubleAxeScript.cs",
               "ToolTip": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\DoubleAxeScript.cs",
               "RelativeToolTip": "Assets\\Script\\Weapon\\DoubleAxeScript.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwDkAAAAFAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T13:58:58.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "BowScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\BowScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\BowScript.cs",
@@ -231,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "WeaponScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\WeaponScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponScript.cs",
@@ -243,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "FloatStat.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Class\\FloatStat.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Class\\FloatStat.cs",
@@ -255,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "KnifeScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\KnifeScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\KnifeScript.cs",
@@ -267,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "PlayerBallScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Behavior\\PlayerBallScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Behavior\\PlayerBallScript.cs",
@@ -279,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BallScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\BallScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BallScript.cs",
@@ -291,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "TimeManager.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Manager\\TimeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\TimeManager.cs",
@@ -303,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "UIManager.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Manager\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Manager\\UIManager.cs",
@@ -315,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "HealthBarScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\UI\\HealthBarScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UI\\HealthBarScript.cs",
@@ -327,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "StaffScript.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Weapon\\StaffScript.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\StaffScript.cs",
@@ -339,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Stat.cs",
               "DocumentMoniker": "H:\\Unity\\Unity project\\ballRogue\\Assets\\Script\\Class\\Stat.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Class\\Stat.cs",
